@@ -1,2 +1,4 @@
-# Random-Dice-Simulator-in-Python
-Random Dice simulator made in python!
+# How to download
+To download, you must click on the green "CODE" button and then click on download zip. Then, unzip the file.
+
+

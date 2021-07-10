@@ -8,7 +8,7 @@ To use, simply double click on "dice simulator.py" and then click enter to roll 
 
 
 # Requirements
-Ofcourse, you need to download python.
+Of course, you need to download python.To install python go to https://www.python.org/ and then click on download and then download the latest version.
 
 
 
